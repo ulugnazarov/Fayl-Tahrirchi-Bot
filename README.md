@@ -1,0 +1,2 @@
+# Fayl-Tahrirchi-Bot
+Assalom-u alaykum, bot orqali:  — PDF fayllarni zip faylga aylantirish, tahrirlash, fayllar parolini ochish yoki shifrlash, nomini o'zgartirish; — PDF fayllar orasidagi matn farqlarini solishtirish; — Matnli xabarlardan PDF fayllarni yaratish; — PDF-fayllarga watermark qo'shish; — PDF fayllarga matn qo'shib, ularni qidirish; — PDF fayllardan rasm va matnlarni chiqarib olish; — PDF fayllarni rasmlarga aylantirish; — Rasmlar, veb-saxifalar va matnlarni PDF fayllarga aylantirishingiz mumkin😊
